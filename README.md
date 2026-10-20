@@ -72,7 +72,3 @@ python .\secure_message_tool.py
 ## 许可证
 
 开源发布时可使用 MIT License。请在许可证文件中填写版权持有者名称和年份；不要将本 README 中的建议当成已经授予的许可证。发布前应确认你有权开源脚本及其依赖项。
-
-## 切记
-
-发送公钥和私钥的时候尽量使用Proton Mail
